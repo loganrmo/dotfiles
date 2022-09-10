@@ -1,2 +1,2 @@
 # dotfiles
-Config files for my Linux workflow. Running Ubuntu-based OS with XFCE, i3, picom, and rofi.
+Repo I use to store my config files for different Linux applications. I run XFCE desktop with i3-gaps as the window manager, Picom as a compositor, lxappearance for GTK settings, and Rofi as my application launcher. 
