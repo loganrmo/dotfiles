@@ -1,4 +1,8 @@
 # dotfiles
-Repo I use to store my config files for different Linux applications on Linux Mint. I run XFCE desktop with i3-gaps as the window manager, Picom as a compositor, lxappearance for GTK settings, and Rofi as my application launcher. 
 
-Meant for personal use - settings and keybindings are specific to my workflow and not documented.
+**2024 Update**: Switched from XFCE to KDE due to fractional scaling issues in 4K (both on X11), and integrated i3 with KDE surprisingly smoothly. Kept a lot of KDE defaults for stability and updated my configs accordingly. Also switched from Mint to Kubuntu for simplicity (blocked snapd though)
+
+Config file store for my i3wm + KDE setup. 
+
+
+
